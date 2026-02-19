@@ -10,7 +10,7 @@ Features
 -   User Registration
 -   Login with JWT authentication
 -   Password hashing using bcrypt
--   Role-based authorization (user / admin)
+
 -   Create, Get, Delete Tasks
 -   Background worker for auto-completion
 -   Configurable environment variables
